@@ -1,6 +1,6 @@
 <div align="center">
-## 💫 About Me:
-🔭 I’m currently working on  <br>- Full-stack web projects (Node.js, Express, MongoDB)  <br>- Improving problem-solving through regular coding practice  <br><br>👯 I’m looking to collaborate on <br>- Open-source projects  <br>- Web apps with practical, real-world use  <br><br>🤝 I’m looking for help with <br>- Backend architecture and clean code practices  <br>- System design fundamentals  <br><br>🌱 I’m currently learning  <br>- Full-stack development  <br>- Data Structures & Algorithms  <br>- Basics of deployment and cloud services  <br><br>💬 **Ask me about**  <br>- C programming  <br>- JavaScript & backend basics  <br><br>⚡ Fun fact  <br>- I enjoy turning ideas into working applications<br>
+💫 About Me:
+🔭 I’m currently working on  <br>- Full-stack web projects (Node.js, Express, MongoDB)  <br>- Improving problem-solving through regular coding practice  <br><br>👯 I’m looking to collaborate on <br>- Open-source projects  <br>- Web apps with practical, real-world use  <br><br>🤝 I’m looking for help with <br>- Backend architecture and clean code practices  <br>- System design fundamentals  <br><br>🌱 I’m currently learning  <br>- Full-stack development  <br>- Data Structures & Algorithms  <br>- Basics of deployment and cloud services  <br><br>💬 Ask me about  <br>- C programming  <br>- JavaScript & backend basics  <br><br>⚡ Fun fact  <br>- I enjoy turning ideas into working applications<br>
 
 
 ## 🌐 Socials:
